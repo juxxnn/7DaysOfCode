@@ -10,11 +10,10 @@ Neste repositório você encontrará desafios de 7 dias proposto pela [Alura](ht
 
 O objetivo do #7DaysOfCode é para praticar as habilidades em programação na linguagem JavaScript.
 
-<br>
-O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/7DaysOfCode/blob/main/LICENSE">license</a>.
-<br>
-
 -------------------
+Licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/7DaysOfCode/blob/main/LICENSE">license</a>.
+<br>
+<br>
 Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
 <br>
 Gostou? Deixe uma estrelinha para ajudar ⭐
