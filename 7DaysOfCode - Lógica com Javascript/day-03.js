@@ -14,7 +14,7 @@ if (area == 1) {
                 prompt("Que legal! Possui outra?")
                 i++;
             }
-            else{
+            else {
                 alert("Obrigado por participar das perguntas. Até logo!")
                 break;
             }
@@ -23,7 +23,7 @@ if (area == 1) {
     else if (tec == 'N') {
         alert("Obrigado por participar das perguntas. Até logo!")
     }
-    else{
+    else {
         alert("Resposta inválida! Digite [S] para SIM e [N] para NÃO.")
     }
 }
@@ -41,7 +41,7 @@ else if (area == 2) {
                 prompt("Que legal! Possui outra?")
                 i++;
             }
-            else{
+            else {
                 alert("Obrigado por participar das perguntas. Até logo!")
                 break;
             }
@@ -50,11 +50,11 @@ else if (area == 2) {
     else if (tec == 'N') {
         alert("Obrigado por participar das perguntas. Até logo!")
     }
-    else{
+    else {
         alert("Resposta inválida! Digite [S] para SIM e [N] para NÃO.")
     }
 }
-else{
+else {
     alert("Resposta inválida! Digite [1] para Front-End e [2] para Back-End.")
 }
 
