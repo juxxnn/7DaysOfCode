@@ -16,7 +16,6 @@ while (chances < 4) {
         alert("Você errou. Tente novamente. \nVocê possui 3 tentativas e já realizou " + chances + ".")
         chances = chances + 1;
     }
-
 }
 alert("Fim do jogo!")
 
